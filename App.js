@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>110719012蕭鈞鴻</Text>
+      <Text>110719012蕭鈞鴻wk1</Text>
     </View>
   );
 }
